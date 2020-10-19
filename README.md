@@ -10,7 +10,7 @@ Wymagania:
 
 Jak przygotować środowisko do modowania:
 1. Wewnątrz folderu "...\StarCitizen\LIVE" stwórz repozytorium Git oraz sprawdź wszystkie źródła z gałęzi głównej lub pobierz archiwum najnowszych wersji (https://github.com/defterai/StarCitizenModding/releases)
-2. Uruchom skrypt modding-begin.py aby aktywować środowisko modowania. Żeby je deaktywować ponownie uruchom modding-end.py
+2. Uruchom skrypt modding-begin.py aby aktywować środowisko modowania. Żeby je deaktywować uruchom modding-end.py
 
 English
 
